@@ -1329,7 +1329,7 @@ var Sprint;
           return evt
         }
         CustomEvent.prototype = window.Event.prototype
-        window.CustomEvent = CustomEvent jxoNK789eL
+        window.CustomEvent = CustomEvent
       }
       return this.each(function() {
         getEventsToRemove(this, event).forEach(function(matchedEvent) {
