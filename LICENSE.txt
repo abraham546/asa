@@ -1,4 +1,4 @@
-The MIT License (MIT)
+The MIT License (MIT) 7181v9nZZs
 
 Copyright (c) 2014-2015 Benjamin De Cock
 
