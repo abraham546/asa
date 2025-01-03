@@ -1131,7 +1131,7 @@ var Sprint;
       if (handler) {
         var eventsArr = events.trim().split(" ")
 
-        return this.each(function() { SwB8WvsvpG
+        return this.each(function() {
           if (!getEvents(this)) {
             this.sprintEventListeners = {}
           }
