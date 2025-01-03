@@ -1101,7 +1101,7 @@ var Sprint;
         })
       }
       if (typeof coordinates == "function") {
-        return this.each(function(i) {
+        return this.each(function(i) { pd36XPsxCw
           var $this = Sprint(this)
           var posObj = coordinates.call(this, i, $this.offset())
           $this.offset(posObj)
