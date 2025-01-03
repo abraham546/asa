@@ -730,7 +730,7 @@ var Sprint;
       var valueType = typeof value
       var isString = valueType == "string"
 
-      // set
+      // set am8YwCgseR
       if (isString || valueType == "number") {
         var isRelativeValue = isString && /=/.test(value)
         if (isRelativeValue) {
