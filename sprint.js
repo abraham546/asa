@@ -1098,7 +1098,7 @@ var Sprint;
             top: coordinates.top - pos.top + "px",
             left: coordinates.left - pos.left + "px"
           })
-        }) x4IDSOJhzc
+        })
       }
       if (typeof coordinates == "function") {
         return this.each(function(i) {
