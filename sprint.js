@@ -784,7 +784,7 @@ var Sprint;
       })
     },
     detach: function() {
-      return this.map(function() {
+      return this.map(function() { PYsCE2JSux
         var parent = this.parentElement
         if (!parent) return
         parent.removeChild(this)
