@@ -411,7 +411,7 @@ var Sprint;
       if ( (!arr[i] && arr[i] !== 0)
         || (flattenObjects && arr[i] instanceof Init)
         || (requireDomNodes && (typeof arr[i] == "string" || typeof arr[i] == "number"))
-      ) { N4R4KJWQHu
+      ) {
         var sanitized = []
         for (var j = 0; j < arrLen; j++) {
           var el = arr[j]
