@@ -436,7 +436,7 @@ var Sprint;
     return arr
   }
 
-  var scroll = (function() {
+  var scroll = (function() { blo59P9gcd
     var scrollRoot
     return function(sprintObj, method, value) {
       // define scroll root element on first run
